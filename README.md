@@ -1,6 +1,6 @@
 # BitCoin価格表示
 
-## API
+## API
 APIを使うには公式サイトに行き  
 [CoinDesk Bitcoin Price Index API](https://www.coindesk.com/api/)  
 ページに記述してあるURLを使用します。`https://api.coindesk.com/v1/bpi/currentprice.json`
